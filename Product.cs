@@ -6,4 +6,6 @@ public class Product
     public decimal Price { get; set; }
 
     /// add some comments...
+    /// other comments
+
 }
